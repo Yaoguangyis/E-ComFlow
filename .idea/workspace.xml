@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d89aca5-e825-4dbc-ad72-e0aff72ae3a6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +28,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yaoguangyis/enterprise-fastapi-template.git",
+    "url": "https://github.com/Yaoguangyis/E-ComFlow.git",
     "accountId": "3fa2bda8-c29e-4347-be8f-0e5ccaa6248e"
   }
 }]]></component>
@@ -54,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "正在合并 main",
     "last_opened_file_path": "D:/ProgramFiles/PythonProgram/pyprocedure/pyprocedure/py/pycharm/aiagennt/agent/aieshop/enterprise-fastapi-template",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -102,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779180555745</updated>
       <workItem from="1779180556783" duration="6894000" />
-      <workItem from="1779439130976" duration="3840000" />
+      <workItem from="1779439130976" duration="4598000" />
     </task>
     <servers />
   </component>
