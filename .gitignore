@@ -66,29 +66,5 @@ htmlcov/
 # pyenv
 .python-version
 
-# uv
-uv.lock
 
-# Docker
-.dockerenv
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# Frontend (Node.js)
-frontend/node_modules/
-frontend/dist/
-frontend/build/
-frontend/.next/
-frontend/*.local
